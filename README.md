@@ -35,7 +35,7 @@ I have knowledge in HTML, CSS, JavaScript, React JS, Redux, NodeJS, ExpressJS, T
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=alejandrogh7&show_icons=true&theme=radical" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
 
 <br/>
 
