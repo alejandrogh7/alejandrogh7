@@ -2,17 +2,13 @@
 <h2 align="center">Full stack developer ⚡ (Medellín-Colombia)🌎</h2>
 <br/>
 
-<p style="word-break: keep-all;">Hi!. I'm Alejandro Garcia, I'm 19 years old and I'm from Medellín, Colombia. I'm a full stack developer. What I like the most about web development is the front-end, especially the user interface.I really like the design part and how to arrange everything inside the website especially when i get an uniform and simple style.
+<p>Hi!. I'm Alejandro Garcia, I'm 19 years old and I'm from Medellín, Colombia. I'm a full stack developer. What I like the most about web development is the front-end, especially the user interface.I really like the design part and how to arrange everything inside the website especially when i get an uniform and simple style.
 
 It motivates me to learn new things, especially when I can connect them with other knowledge that I have and I can meet with friends to create projects and learn together.
 
 I have knowledge in HTML, CSS, JavaScript, React JS, Redux, NodeJS, ExpressJS, Typescript, SQL, MongoDB, NextJS, Tailwind and Postgress. I also have knowledge in teamwork, I have skills such as critical and analytical thinking, I am sociable and communicative
 
-If you want to know more, let's connect! -->
-
-E-mail: alejo1garciasosa@gmail.com
-Whatsapp: +57 3195623408
-Linkedin:https://www.linkedin.com/in/alejandro-garcia-fullstack/</p>
+</p>
 <br/>
 <br/>
 
