@@ -32,7 +32,7 @@ I have knowledge in HTML, CSS, JavaScript, React JS, Redux, NodeJS, ExpressJS, T
 <br/>
 
 <h3>STATS: </h3>
-<img src="https://github-readme-stats.vercel.app/api?username=alejandrogh7&show_icons=true&theme=radical" />
+https://github-readme-stats.vercel.app/api?username=alejandrogh7&show_icons=true&theme=radical
 
 <br/>
 
