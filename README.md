@@ -26,7 +26,7 @@
 <h3 align="left">📱 CONTACT ME: 🤙</h3>
 <br/>
 <ul>
-  <li><img src='./github-logo-24.png' width=3%/><a href="https://github.com/alejandrogh7">GITHUB</a></li>
-  <li><img src='./linkedin-square-logo-24.png' width=3%/><a href="https://www.linkedin.com/in/alejandro-garcia-fullstack/">LINKEDIN</a></li>
-  <li><img src='./linkedin-square-logo-24.png' width=3%/> <a href="alejo1garciasosa@gmail.com">alejo1garciasosa@gmail.com</a></li>
+  <li><img src='./github-logo-24.png' width=3% align="center"/><a href="https://github.com/alejandrogh7">GITHUB</a></li>
+  <li><img src='./linkedin-square-logo-24.png' width=3% align="center"/><a href="https://www.linkedin.com/in/alejandro-garcia-fullstack/">LINKEDIN</a></li>
+  <li><img src='./gmail-logo-24.png' width=3% align="center"/> <a href="alejo1garciasosa@gmail.com">alejo1garciasosa@gmail.com</a></li>
 </ul>
