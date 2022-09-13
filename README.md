@@ -7,7 +7,6 @@
 It motivates me to learn new things, especially when I can connect them with other knowledge that I have and I can meet with friends to create projects and learn together.
 
 I have knowledge in HTML, CSS, JavaScript, React JS, Redux, NodeJS, ExpressJS, Typescript, SQL, MongoDB, NextJS, Tailwind and Postgress. I also have knowledge in teamwork, I have skills such as critical and analytical thinking, I am sociable and communicative
-
 </p>
 <br/>
 <br/>
@@ -29,6 +28,11 @@ I have knowledge in HTML, CSS, JavaScript, React JS, Redux, NodeJS, ExpressJS, T
   <li>Git</li>
   <li>Slack</li>
 </ul>
+
+<br/>
+
+<h3>STATS: </h3>
+![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandrogh7&show_icons=true&theme=radical)
 
 <br/>
 
