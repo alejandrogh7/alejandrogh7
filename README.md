@@ -3,18 +3,20 @@
 <br/>
 <br/>
 
-<h3 align="left">💡 SKILLS: 💻</h3>
+<h3 align="left">💡 SKILLS: 💻🦾</h3>
 <ul>
-  🦾
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
-  <li>Sass</li>
-  <li>React</li>
-  <li>Redux toolkit</li>
-  <li>Node JS</li>
-  <li>Express</li>
+  <li>TypeScript</li>
+  <li>Tailwind</li>
+  <li>ReactJS</li>
+  <li>Redux</li>
+  <li>NodeJS</li>
+  <li>ExpressJS</li>
   <li>PostgreSQL</li>
   <li>Sequelize</li>
+  <li>MongoDB</li>
   <li>Git</li>
+  <li>Slack</li>
 </ul>
