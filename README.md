@@ -20,3 +20,13 @@
   <li>Git</li>
   <li>Slack</li>
 </ul>
+
+<br/>
+
+<h3 align="left">📱 CONTACT ME: 🤙</h3>
+<br/>
+<ul>
+  <li><img src='./assets/icons/signo-de-github.png' width=3%/> <a href="https://github.com/alejandrogh7">GITHUB</a></li>
+  <li><img src='./assets/icons/linkedin.png' width=3%/> <a href="https://www.linkedin.com/in/alejandro-garcia-fullstack/">LINKEDIN</a></li>
+  <li><img src='./assets/icons/google.png' width=3%/> <a href="alejo1garciasosa@gmail.com">alejo1garciasosa@gmail.com</a></li>
+</ul>
