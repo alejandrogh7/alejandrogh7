@@ -8,7 +8,7 @@ I have knowledge in HTML, CSS, JavaScript, React JS, Redux, NodeJS, ExpressJS, T
 <br/>
 <br/>
 <h3 align="left">💡 SKILLS: 💻🦾</h3>
-<ul>
+<ul display="flex" flexDirection="row">
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
