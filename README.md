@@ -8,7 +8,7 @@ I have knowledge in HTML, CSS, JavaScript, React JS, Redux, NodeJS, ExpressJS, T
 <br/>
 <br/>
 <h3 align="left">💡 SKILLS: 💻🦾</h3>
-<ul display="gird" gridTemplateColumns="repeat(4, 1fr)">
+<ul display="gird" gridTemplate="repeat(2, 1fr) / repeat(3, 1fr)">
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
