@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Alejandro García</h1>
+<h1 align="center">Hi 🤙, I'm Alejandro García</h1>
 <h3 align="center">I'm from Medellín, Colombia. I'm a full stack developer. What I like the most about web development is the front-end, especially the user interface.I really like the design part and how to arrange everything inside the website especially when i get an uniform and simple style. It motivates me to learn new things, especially when I can connect them with other knowledge that I have and I can meet with friends to create projects and learn together.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrogh7&label=Views%F0%9F%91%80&color=121c1c&style=plastic" alt="alejandrogh7" /> </p>
 
 - 🌱 I’m currently learning **Java, Springboot and Python**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-alejandro-garcia.vercel.app/](https://portfolio-alejandro-garcia.vercel.app/)
+- 👨‍💻😺 All of my projects are available at [https://portfolio-alejandro-garcia.vercel.app/](https://portfolio-alejandro-garcia.vercel.app/)
 
-- 💬 Ask me about **React and Redux toolkit**
-
-- 📫 How to reach me **alejo1garciasosa@gmail.com**
+- 📱 How to reach me **alejo1garciasosa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alejandrogh7&show_icons=true&theme=dark&locale=en" alt="alejandrogh7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alejandrogh7&" alt="alejandrogh7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alejandrogh7&theme=dark" alt="alejandrogh7" /></p>
